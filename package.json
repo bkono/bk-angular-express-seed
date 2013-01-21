@@ -1,0 +1,11 @@
+{
+  "author": "bk",
+  "name": "weeee",
+  "version": "0.0.1",
+  "dependencies": {
+    "mocha": "~1.8.1",
+    "express": "~3.0.6",
+    "coffee-script": "~1.4.0"
+  },
+  "devDependencies": {}
+}
